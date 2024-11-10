@@ -1,1 +1,1 @@
-homepage: andrewsilver1997.github.io
+homepage: https://github.com/andrewsilver1997/andrewsilver1997.github.io
