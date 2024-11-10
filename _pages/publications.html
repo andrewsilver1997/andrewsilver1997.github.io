@@ -1,33 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications / Preprints (* Equal Contribution.)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<b>LETR: An End-to-End Detector of Reconstruction Area in Blade’s Adaptive Machining with Transformer</b> <br>
+Zikai Yin, Yongshou Liang, Junxue Ren, Jungang An, Famei He<br>
+<i>CoRL 2024</i>.  [<a href="https://arxiv.org/abs/2408.11805">paper</a>] [<a href="https://ace-teleop.github.io/">project</a>] [<a href="https://github.com/ACETeleop/ACETeleop">code</a>]
+<br>
