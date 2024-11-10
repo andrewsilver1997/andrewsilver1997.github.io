@@ -16,7 +16,7 @@ Education
 
 Teaching
 ======
-Scientific Visualization, 
+Scientific Visualization(WMCS018-05), Teaching Assistant
 
 Skill
 ======
