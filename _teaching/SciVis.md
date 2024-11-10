@@ -1,4 +1,3 @@
-
 ---
 title: "Scientific Visualization"
 collection: teaching
