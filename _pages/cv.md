@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Univeristy of Groningen, 2022-2024
+* Ph.D in Computer Science, Univeristy of Groningen, 2022-2026
 * M.S. in Aeronautical Engineering, Northwestern Polytechnical University, 2019-2022
 
 Teaching
