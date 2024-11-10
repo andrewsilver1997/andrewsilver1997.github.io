@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/zikai_yn.jpg"
+  avatar           : "zikai_yin.jpg"
   name             : "Zikai Yin"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
