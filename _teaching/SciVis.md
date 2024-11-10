@@ -1,11 +1,20 @@
 ---
-title: "Scientific Visualization"
+title: "Teaching experience 1"
 collection: teaching
-type: "Master course"
-permalink: /teaching/SciVis
-venue: "University of Groningen"
-date: 2024-09 to 2024-11
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
 location: "City, Country"
 ---
 
-Teaching assistant
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
