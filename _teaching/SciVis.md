@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Scientific Visualization"
 collection: teaching
 type: "Master course"
 permalink: /teaching/SciVis
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "University of Groningen"
+date: 2014-09
 location: "City, Country"
 ---
 
