@@ -13,5 +13,4 @@ Education
 ======
 * Ph.D in Computer Science, Univeristy of Groningen, 2022-2024
 * M.S. in Aeronautical Engineering, Northwestern Polytechnical University, 2019-2022
-<* B.S. in GitHub, GitHub University, 2012>
 
