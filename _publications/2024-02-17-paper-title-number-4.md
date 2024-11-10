@@ -1,4 +1,3 @@
-
 ---
 title: "Classification of blade’s leading edge based on neural networks in adaptive machining of near-net-shaped blade"
 collection: publications
