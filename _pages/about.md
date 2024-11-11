@@ -12,4 +12,4 @@ I'm currently a PhD studnet at the University of Groningen, supervised by [Jiri 
 Scientific Visualizatin, Computer Graphics, Deep Learning
 
 ## Hobby
-Football, Swim
+Football, Swimming
