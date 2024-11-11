@@ -12,5 +12,5 @@ I'm currently a PhD studnet at the University of Groningen, supervised by [Jiri 
 Scientific Visualizatin, Computer Graphics, Deep Learning
 
 ## Hobby
-* Football. I play right-back for [V.V.Mamio](https://scholar.google.com/citations?user=oFHTrNoAAAAJ&hl=en&oi=ao). 
+* Football. I play right-back for [V.V.Mamio](https://vvmamiogroningen.nl/). 
 * Swimming. 
