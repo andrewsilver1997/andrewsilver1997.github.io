@@ -10,7 +10,7 @@ I'm currently a PhD student in Computer Science at the University of Groningen, 
 Before that, I obtained my MS in Aeronautical Engineering from Northwestern Polytechnical Univeristy.
 
 ## Research Interest
-* Scientific Visualizatin
+* Scientific Visualization
 * Computer Graphics
 * Deep Learning
 
