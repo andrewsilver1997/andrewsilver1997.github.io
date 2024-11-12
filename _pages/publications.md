@@ -7,7 +7,7 @@ author_profile: true
 
 <b>LETR: An End-to-End Detector of Reconstruction Area in Blade’s Adaptive Machining with Transformer</b> <br>
 <b>Zikai Yin</b>, Yongshou Liang, Junxue Ren, Jungang An, Famei He<br>
-<i>Journal of Sensors, 2022</i>. [<a href="https://github.com/andrewsilver1997/LETR">code</a>]
+<i>Journal of Sensors, 2022</i>. [<a href="https://github.com/andrewsilver1997/LETR">code</a>][<a href="https://github.com/andrewsilver1997/LDEG2021">Dataset</a>]
 
 <b>Classification of blade’s leading edge based on neural networks in adaptive machining of near-net-shaped blade</b> <br>
 <b>Zikai Yin</b>, Junxue Ren, Yongshou Liang<br>
