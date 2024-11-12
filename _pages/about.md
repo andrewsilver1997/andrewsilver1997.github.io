@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a PhD student in Computer Science at the University of Groningen, supervised by [Jiri Kosinka](https://www.cs.rug.nl/svcg/People/JiriKosinka), [Steffen Frey](https://freysn.github.io/), and [Christian Cehl](https://www.cs.rug.nl/svcg/People/ChristianKehl).
+I'm currently a PhD student in Computer Science at the University of Groningen, supervised by [Jiri Kosinka](https://www.cs.rug.nl/svcg/People/JiriKosinka), [Steffen Frey](https://freysn.github.io/), and [Christian Kehl](https://www.cs.rug.nl/svcg/People/ChristianKehl).
 Before that, I obtained my MS in Aeronautical Engineering from Northwestern Polytechnical Univeristy.
 
 ## Research Interest
