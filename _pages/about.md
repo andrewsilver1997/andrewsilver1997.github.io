@@ -10,7 +10,9 @@ I'm currently a PhD student in Computer Science at the University of Groningen, 
 Before that, I obtained my MS in Aeronautical Engineering from Northwestern Polytechnical Univeristy.
 
 ## Research Interest
-Scientific Visualizatin, Computer Graphics, Deep Learning
+* Scientific Visualizatin
+* Computer Graphics
+* Deep Learning
 
 ## Hobby
 * Football. I play as a left/right-back for [V.V.Mamio](https://vvmamiogroningen.nl/). 
