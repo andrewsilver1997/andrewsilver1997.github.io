@@ -11,7 +11,7 @@ Before that, I received my MS in Aeronautical Engineering from Northwestern Poly
 
 ## Research Interest
 * Scientific Visualization
-* Visual analytic
+* Visual analysis
 * Computer Graphics
 * Deep Learning
 
