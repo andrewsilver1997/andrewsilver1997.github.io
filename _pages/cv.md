@@ -25,4 +25,4 @@ Python, Pytorch, C++
 
 languange
 ======
-Mandarin (native speaker), English (proficient)
+Mandarin (native speaker), English (C1)
