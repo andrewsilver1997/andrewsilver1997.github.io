@@ -17,6 +17,7 @@ Education
 Teaching
 ======
 Scientific Visualization (WMCS018-05), Teaching Assistant, 2024
+* Lab session, answer student questions on site/emails    
 
 Skill
 ======
