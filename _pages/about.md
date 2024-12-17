@@ -16,5 +16,5 @@ Before that, I received my MS in Aeronautical Engineering from Northwestern Poly
 * Deep Learning
 
 ## Hobby
-* Football. I play as a left/right-back for [V.V.Mamio](https://vvmamiogroningen.nl/). 
+* Football. I play as a left/right-back for [V.V.Mamio 3](https://vvmamiogroningen.nl/). 
 * Swimming. 
