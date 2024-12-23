@@ -18,3 +18,4 @@ Before that, I received my MS in Aeronautical Engineering from Northwestern Poly
 ## Hobby
 * Football. I play as a left/right-back for [V.V.Mamio 3](https://vvmamiogroningen.nl/). 
 * Swimming. 
+* Travelling.
