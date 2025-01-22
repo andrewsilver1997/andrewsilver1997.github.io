@@ -6,7 +6,7 @@ author_profile: true
 ---
 <b>ENTIRE: Learning-based Rendering Time Prediction</b> <br>
 <b>Zikai Yin</b>, Hamid Gadirov, Jiri Kosinka, Steffen Frey<br>
-<i>arXiv:2501.12119</i>. [<a href="https://github.com/andrewsilver1997/DVR-time-prediction">paper</a>][<a href="https://github.com/andrewsilver1997/DVR-time-prediction">code</a>]
+<i>arXiv:2501.12119</i>. [<a href="https://arxiv.org/abs/2501.12119">paper</a>][<a href="https://github.com/andrewsilver1997/DVR-time-prediction">code</a>]
 
 <b>LETR: An End-to-End Detector of Reconstruction Area in Blade’s Adaptive Machining with Transformer</b> <br>
 <b>Zikai Yin</b>, Yongshou Liang, Junxue Ren, Jungang An, Famei He<br>
